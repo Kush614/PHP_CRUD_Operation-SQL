@@ -3,5 +3,5 @@
 To Execute this application just start the Xampp web server.
 Execute index.php file in the browser at locahost.
 
-For more information take this tutorial.
+For more information I referred this tutorial this tutorial.
 [Video Tutotrial](https://youtu.be/JZdMXUIMdQw)
